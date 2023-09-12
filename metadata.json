@@ -1,0 +1,12 @@
+{
+  "_generated": "Made by vggscqq",
+  "description": "Mount rclone share.",
+  "name": "rclone-qs",
+  "shell-version": [
+    "43",
+    "44"
+  ],
+  "url": "https://github.com/kra-mo/quick-touchpad-toggle/",
+  "uuid": "rclone-qs@vggscqq.github.com",
+  "version": 0.1
+}
